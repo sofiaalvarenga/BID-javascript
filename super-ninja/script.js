@@ -30,8 +30,8 @@ class Sensei extends Ninja{ //CLASE DERIVADA DE NINJA
         // wisdom || 10 es equivalente a colocar wisdom =10 
     }
     speakWisdom(){
-    this.drinkSake();
-    console.log(`${this.name} nos dice que, un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de sentido único`)
+        this.drinkSake();
+        console.log(`${this.name} nos dice que, un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de sentido único`)
     }
 
 }
